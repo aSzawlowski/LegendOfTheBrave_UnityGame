@@ -54,7 +54,7 @@ This game was developed as a portfolio piece to demonstrate Unity development sk
 
 ## 👨‍💻 Author
 
-Created by **Antoni Szawłowski**  
+All mechanics, code, sprites placement and UI where **Created by Antoni Szawłowski**  
 
 ---
 
@@ -68,8 +68,8 @@ Created by **Antoni Szawłowski**
 
 This project is intended for educational and portfolio purposes only.  
 Some assets were provided by:
-- Pixel Frog, OOO Superposition Principle Inc.
-- Sound design by Adrian Kruszewski and OOO Superposition Principle Inc.
+- Pixel Frog, OOO Superposition Principle Inc. (only Sprites)
+- Sound design by OOO Superposition Principle Inc. and Adrian Kruszewski
 
 ---
 
