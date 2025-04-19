@@ -58,9 +58,9 @@ All mechanics, code, sprites placement and UI where **Created by Antoni Szawłow
 
 ---
 
-## 📸 Screenshots
+## 🎮 Gameplay
 
-*(Add screenshots or gameplay gifs here to showcase your work)*
+A recording of the gameplay has been included in the repository files for reference. You can find the video file in the project directory. This recording demonstrates the core mechanics and features of the game in action.
 
 ---
 
